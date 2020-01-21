@@ -1,0 +1,37 @@
+/*                                           */
+/* Pablo Michó Fernández                     */
+/*                                           */
+/* CSS ejercicio: Don  Quijote Capítulo 1    */
+/*                                           */
+/* 21/01/2020                                */
+/*                                           */
+
+body {
+    background-color: hsl(35, 100%, 90%);
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    color: saddlebrown;
+    text-transform: uppercase;
+  }
+  
+  p {
+    font-size: 35px;
+  }
+
+  p.pregunta {
+    color: orange;
+  }
+  
+  summary {
+    font-size: 65px;
+  }
+  
+  span.blanco {
+    background-color: white;
+  }
+  
+  span.rosa {
+    background-color: pink;
+  }
